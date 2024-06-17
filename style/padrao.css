@@ -1,1 +1,8 @@
-
+:root {
+    --fundoLogin:yellow;
+    --corFonteLogin:grey;
+    --btnSistema:blue;
+    --corFonteBotao:white;
+    --corbtnSistemaHover:white;
+    --corbtnBotaoHover:white;
+}
